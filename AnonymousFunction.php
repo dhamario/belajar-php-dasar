@@ -4,7 +4,7 @@ $sayHello = function (string $name) {
     echo "Hello $name" . PHP_EOL;
 };
 
-$sayHello("Eko");
+$sayHello("Ekoo");
 $sayHello("Budi");
 
 function sayGoodBye(string $name, $filter)
